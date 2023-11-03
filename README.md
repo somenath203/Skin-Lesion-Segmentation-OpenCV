@@ -1,3 +1,7 @@
 # Skin Lesion Segmentation OpenCV
 
-This is a project created with the help of Numpy, Matplotlib and OpenCV where segmentation on 2000 skin images is performed with the help of OpenCV.
+This repository contains the code for segmenting skin lesions images using OpenCV. Skin lesion segmentation is one of the first steps towards automatic Computer-Aided Diagnosis of skin cancer.
+
+### Dataset used for this Project
+
+https://www.kaggle.com/datasets/hashbanger/skin-lesion-segmentation
